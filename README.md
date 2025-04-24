@@ -3,7 +3,8 @@
 
 I am a graduate in computer science with a strong foundation in IT and a deep passion for cybersecurity. After gaining valuable experience as an Assistant System Engineer in an IT consultancy, I transitioned to the banking industry, where I continue to thrive professionally. A banker, father, and dedicated hacker, I spend my free time expanding my expertise in cybersecurity. Through hands-on practice on platforms like Hack The Box, PentesterLab, building home labs, and exploring various tools and techniques, I am constantly sharpening my skills. As an enthusiastic learner, I am determined to transition into the cybersecurity field and pursue it as a lifelong career.
 
-
+### 💣 `rm -rf /`
+> *Because sometimes... rebooting life is the only patch left.*
 
 ## Skills
 
